@@ -1,7 +1,7 @@
 {
-  "name": "trantienhd97/react-native-mentions-editor",
+  "name": "@trantienhd97/react-native-mentions-editor",
   "version": "1.0.11",
-  "description": "Mentions for React-Native. Tested on iOS. Should work on Andriod.",
+  "description": "Mentions for React-Native. Tested on iOS. Should work on Android.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
