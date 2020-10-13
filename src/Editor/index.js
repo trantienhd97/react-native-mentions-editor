@@ -542,20 +542,11 @@ export class Editor extends React.Component {
                   editorStyles.inputMaskTextWrapper
                 ]}
               >
-                {state.formattedText !== "" ? (
+                {state.formattedText !== "" && (
                   <Text
                     style={[styles.formmatedText, editorStyles.inputMaskText]}
                   >
                     {state.formattedText}
-                  </Text>
-                ) : (
-                  <Text
-                    style={[
-                      styles.placeholderText,
-                      editorStyles.placeholderText
-                    ]}
-                  >
-                    {state.placeholder}
                   </Text>
                 )}
               </View>
