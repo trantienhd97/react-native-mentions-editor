@@ -1,6 +1,6 @@
 {
   "name": "@trantienhd97/react-native-mentions-editor",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Mentions for React-Native. Tested on iOS. Should work on Android.",
   "main": "index.js",
   "scripts": {
@@ -21,10 +21,10 @@
     "android",
     "mentions"
   ],
-  "author": "Muhammad Raza Dar <mrazadar@gmail.here> (https://about.me/mrazadar)",
-  "license": "MIT",
+  "author": "trantien <trantien97ptit@gmail.com>",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/mrazadar/react-native-mentions-editor/issues"
+    "url": "https://github.com/trantienhd97/react-native-mentions-editor/issues"
   },
-  "homepage": "https://github.com/mrazadar/react-native-mentions-editor#readme"
+  "homepage": "https://github.com/trantienhd97"
 }
